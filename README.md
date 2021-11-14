@@ -98,3 +98,35 @@
         <td align="center"><img src="https://github.com/Zong-Xi/Implement-ORB-SLAM-Algorithm-and-Mapping-by-ROS/blob/main/picture/with-calibration/after-loop-closing.png" ></td>
     </tr>
 </table>
+
+<br>
+
+## Data Plot
+### Data Plot without Camera Calibration
+<table>
+    <tr>
+        <td><center>3D Plot</center></td>
+        <td><center>2D Plot</center></td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://github.com/Zong-Xi/Implement-ORB-SLAM-Algorithm-and-Mapping-by-ROS/blob/main/picture/plot/2-2.png" ></td>
+        <td align="center"><img src="https://github.com/Zong-Xi/Implement-ORB-SLAM-Algorithm-and-Mapping-by-ROS/blob/main/picture/plot/2.png" ></td>
+    </tr>
+</table>
+
+### Data Plot with Camera Calibration
+<table>
+    <tr>
+        <td><center>3D Plot</center></td>
+        <td><center>2D Plot</center></td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://github.com/Zong-Xi/Implement-ORB-SLAM-Algorithm-and-Mapping-by-ROS/blob/main/picture/plot/1.png" ></td>
+        <td align="center"><img src="https://github.com/Zong-Xi/Implement-ORB-SLAM-Algorithm-and-Mapping-by-ROS/blob/main/picture/plot/1-1.png" ></td>
+    </tr>
+</table>
+
+
+
+
+
