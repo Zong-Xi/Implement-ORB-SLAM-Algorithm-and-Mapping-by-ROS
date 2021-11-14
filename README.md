@@ -1,8 +1,9 @@
 # Implement-ORB-SLAM-Algorithm-and-Mapping-by-ROS
 
 <br>
+
 ## Location: 
-NCKU DAA(Department of Aeronautics and Astronautics)
+- NCKU DAA(Department of Aeronautics and Astronautics)
 
 ## Camera Calibration Parameter
 
