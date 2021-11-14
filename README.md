@@ -109,8 +109,8 @@
         <td><center>2D Plot</center></td>
     </tr>
     <tr>
-        <td align="center"><img src="https://github.com/Zong-Xi/Implement-ORB-SLAM-Algorithm-and-Mapping-by-ROS/blob/main/picture/plot/2-2.png" ></td>
         <td align="center"><img src="https://github.com/Zong-Xi/Implement-ORB-SLAM-Algorithm-and-Mapping-by-ROS/blob/main/picture/plot/2.png" ></td>
+        <td align="center"><img src="https://github.com/Zong-Xi/Implement-ORB-SLAM-Algorithm-and-Mapping-by-ROS/blob/main/picture/plot/2-2.png" ></td>
     </tr>
 </table>
 
