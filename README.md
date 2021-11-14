@@ -49,25 +49,12 @@
             </table>
         </td>
         <td width="50%" height="100%">
-            <img src="https://github.com/Zong-Xi/Implement-ORB-SLAM-Algorithm-and-Mapping-by-ROS/blob/main/picture/camera/camera-calibration.png" alt="pict" />
+            <img src="https://github.com/Zong-Xi/Implement-ORB-SLAM-Algorithm-and-Mapping-by-ROS/blob/main/picture/camera/calibration.png" alt="pict" />
         </td>
     </tr>
 </table>
 
 
-
-| Parameter        | Value      | 
-| ------------- |:-------------:| 
-| Camera.fx      | 639.361574   | 
-| Camera.fy      | 647.470474   | 
-| Camera.cx      | 290.001610   | 
-| Camera.cy      | 175.213520   | 
-| Camera.k1      | -0.044398    |
-| Camera.k2      | 0.149793     |
-| Camera.p1      | -0.035826    |
-| Camera.p2      | 0.002884     |
-
-![camera parameter](https://github.com/Zong-Xi/Implement-ORB-SLAM-Algorithm-and-Mapping-by-ROS/blob/main/picture/camera/camera-calibration.png)
 
 ## SLAM Result without Camera Calibration 
 
