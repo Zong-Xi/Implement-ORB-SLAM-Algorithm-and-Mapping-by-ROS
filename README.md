@@ -70,8 +70,8 @@
     </tr>
     </center>
     <tr>
-        <td><center><img src="https://github.com/Zong-Xi/Implement-ORB-SLAM-Algorithm-and-Mapping-by-ROS/blob/main/picture/without-calibration/fail1.png" ></center></td>
-        <td><center><img src="https://github.com/Zong-Xi/Implement-ORB-SLAM-Algorithm-and-Mapping-by-ROS/blob/main/picture/without-calibration/fail2.png" ></center></td>
+        <td><align="center"><img src="https://github.com/Zong-Xi/Implement-ORB-SLAM-Algorithm-and-Mapping-by-ROS/blob/main/picture/without-calibration/fail1.png" ></td>
+        <td><align="center"><img src="https://github.com/Zong-Xi/Implement-ORB-SLAM-Algorithm-and-Mapping-by-ROS/blob/main/picture/without-calibration/fail2.png" ></td>
     </tr>
 </table>
 
