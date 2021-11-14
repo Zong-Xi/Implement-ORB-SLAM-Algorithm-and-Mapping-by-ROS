@@ -58,8 +58,22 @@
     </tr>
 </table>
 
-
+<br>
 
 ## SLAM Result without Camera Calibration 
+
+<table>
+    <tr>
+        <td><center>Loop Closing Fail 1</center></td>
+        <td><center>Loop Closing Fail 2</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="https://github.com/Zong-Xi/Implement-ORB-SLAM-Algorithm-and-Mapping-by-ROS/blob/main/picture/without-calibration/fail1.png" ></center></td>
+        <td><center><img src="https://github.com/Zong-Xi/Implement-ORB-SLAM-Algorithm-and-Mapping-by-ROS/blob/main/picture/without-calibration/fail2.png" ></center></td>
+    </tr>
+</table>
+
+<br>
+
 
 ## SLAM Result with camera Calibration
