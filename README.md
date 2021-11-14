@@ -5,6 +5,8 @@
 ## Location: 
 - NCKU DAA(Department of Aeronautics and Astronautics)
 
+<br>
+
 ## Camera Calibration Parameter
 <table>
     <tr>
@@ -49,7 +51,9 @@
             </table>
         </td>
         <td width="50%" height="100%">
+            <center>
             <img src="https://github.com/Zong-Xi/Implement-ORB-SLAM-Algorithm-and-Mapping-by-ROS/blob/main/picture/camera/calibration.png" width="70%" alt="pict" />
+            </center>
         </td>
     </tr>
 </table>
