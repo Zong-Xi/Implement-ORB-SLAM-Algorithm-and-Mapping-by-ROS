@@ -49,7 +49,7 @@
             </table>
         </td>
         <td width="50%" height="100%">
-            <img src="https://github.com/Zong-Xi/Implement-ORB-SLAM-Algorithm-and-Mapping-by-ROS/blob/main/picture/camera/calibration.png" alt="pict" />
+            <img src="https://github.com/Zong-Xi/Implement-ORB-SLAM-Algorithm-and-Mapping-by-ROS/blob/main/picture/camera/calibration.png" width="50%" alt="pict" />
         </td>
     </tr>
 </table>
