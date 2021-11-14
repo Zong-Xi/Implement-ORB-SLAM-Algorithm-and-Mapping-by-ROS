@@ -13,8 +13,8 @@
         <td width="20%" height="100%">
             <table>
                 <tr>
-                    <td align="center"><center>**Parameter**</center></td>
-                    <td align="center"><center>**Value**</td>
+                    <td align="center"><center>*Parameter*</center></td>
+                    <td align="center"><center>*Value*</td>
                 </center></tr>
                 <tr>
                     <td align="right">Camera.fx </td>
